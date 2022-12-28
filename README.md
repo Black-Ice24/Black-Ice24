@@ -1,4 +1,7 @@
-### Hi there 👋
+## Dr Baribefe Olufemi Vite 
+### Medical Doctor | Data Scientist | iOS/Python Developer
+
+
 
 <!--
 **Black-Ice24/Black-Ice24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
