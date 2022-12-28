@@ -1,5 +1,5 @@
-## Dr Baribefe Olufemi Vite 
-### Medical Doctor | Data Scientist | iOS/Python Developer
+## :snowflake: Dr Baribefe Olufemi Vite 
+### _Medical Doctor | Data Scientist | iOS/Python Developer_
 
 
 
