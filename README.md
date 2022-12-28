@@ -1,6 +1,24 @@
 ## :snowflake: Dr Baribefe Olufemi Vite 
 ### _Medical Doctor | Data Scientist | iOS/Python Developer_
 
+### :man_health_worker: **About me**
+I am a Medical Doctor interested in digital health and the applications of machine learning, artificial intelligence and data science to medicine. I am currently undertaking a Data Science bootcamp with a view to launching a career in data science consultancy or for a health tech company! 
+
+### :technologist: **Tech skills**
+Upon completing the HyperionDev Data Science Bootcamp I will have acquired skills in:
+* Python Programming
+* Data Analystics and Exploration (inc use of Tableau)
+* SQL / SQLite 
+* Data Visualisation 
+* Machine learning (Supervised and Unsupervised Learning techniques)
+
+I also have experience in iOS development with Swift and Flutter
+
+### :mailbox: **Contact me**
+You can contact me by sending a message via LinkedIn! 
+[LinkedIn](https://www.linkedin.com/in/baribefe-olufemi-vite-6027b01aa/)
+
+
 
 
 <!--
