@@ -15,6 +15,7 @@ I also have experience in iOS development with Swift and Flutter
 
 ### :mailbox: **Contact me**
 You can contact me by sending a message via LinkedIn! 
+
 [LinkedIn](https://www.linkedin.com/in/baribefe-olufemi-vite-6027b01aa/)
 
 
