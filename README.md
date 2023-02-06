@@ -2,10 +2,9 @@
 ### _Medical Doctor | Data Scientist | iOS/Python Developer_
 
 ### :man_health_worker: **About me**
-I am a Medical Doctor interested in digital health and the applications of machine learning, artificial intelligence and data science to medicine. I am currently undertaking a Data Science bootcamp with a view to launching a career in data science consultancy or for a health tech company! 
+I am a Medical Doctor interested in digital health and the applications of machine learning, artificial intelligence and data science to medicine. I have recently completed a Data Science bootcamp with a view to enhancing my technical skills! 
 
 ### :technologist: **Tech skills**
-Upon completing the HyperionDev Data Science Bootcamp I will have acquired skills in:
 * Python Programming
 * Data Analystics and Exploration (inc use of Tableau)
 * SQL / SQLite 
